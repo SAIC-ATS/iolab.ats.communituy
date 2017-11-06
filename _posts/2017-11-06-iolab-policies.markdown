@@ -68,7 +68,3 @@ We have very little storage space.  Any filament, prints, projects, or personal 
 
 ## Tools
 Students may use the hand tools in the ioLab any time the lab is open.  These tools stay in the lab at all times and are not to be loaned or given out to students except for appropriate use in the lab.
-
-[access]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
